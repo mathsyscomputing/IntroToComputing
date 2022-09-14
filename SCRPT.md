@@ -4,18 +4,25 @@ The SCRTP manages high performance computing (HPC) facilities that are available
 ## MathSys SCRTP Machines (CPUs)
 MathSys have their own machines and list of hostnames for the complexity SCRTP machines are:
 
-adobo  
-bulalo  
-halabos  
-inihaw  
-jamon  
-kinilaw 
-niliga  
-okoy  
-pinakbet  
-sinuglaw  
-rilyeno  
-galunggong
+<tr>
+   <td><b style="font-size:30px">Title</b></td>
+   <td><b style="font-size:30px">Title 2</b></td>
+</tr>
+<tr>
+   <td>adobo  
+   bulalo  
+   halabos  
+   inihaw  
+   jamon  
+   kinilaw </td>
+   <td>niliga  
+   okoy  
+   pinakbet  
+   sinuglaw  
+   rilyeno  
+   galunggong</td>
+</tr>
+</table>
 
 You can access these machines using the following command in the terminal:
 
