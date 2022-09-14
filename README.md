@@ -4,10 +4,9 @@ This repository contains materials for the Introduction to Computing module. Nam
 Mathematics for Real-World Systems Centre for Doctoral Training, University of Warwick
 
 # Tutors
-- Emma Southall - https://warwick.ac.uk/fac/sci/mathsys/people/students/2017intake/southall/  
-- Connah Johnson - https://warwick.ac.uk/fac/sci/mathsys/people/students/2017intake/johnson/  
 - Francesca Basini - https://warwick.ac.uk/fac/sci/mathsys/people/students/2019intake/basini/
 - Jimmy McKendrick - https://warwick.ac.uk/fac/sci/mathsys/people/students/2019intake/mckendrick/
-
+- Olayinka Ajayi - https://warwick.ac.uk/fac/sci/mathsys/people/students/2020intake/olayinka/
+- Jack O'Connor - https://warwick.ac.uk/fac/sci/mathsys/people/students/2020intake/oconnor
 # Questions
 For any questions pertaining to the contents of this module, please create an issue labelled with question.
