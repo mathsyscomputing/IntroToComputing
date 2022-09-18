@@ -19,6 +19,7 @@ MathSys also have machines with GPUs since Summer 2019. The hostnames are:
 
 keiko  
 kumeta
+kalocsa
 
 You can access these machines usng the following command in the terminal:
 
