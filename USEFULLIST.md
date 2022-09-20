@@ -15,3 +15,7 @@
 - [Mendeley (reference management)](https://www.mendeley.com/download-desktop/)  
 - [Dropbox (storage)](https://www.dropbox.com/)  
 - [Okular (PDF manipulation)](https://okular.kde.org/download.php)  
+
+## Colors
+- [RGB colour generator](https://www.rapidtables.com/web/color/RGB_Color.html#color-table)
+- [LaTeX colours](http://latexcolor.com/)
