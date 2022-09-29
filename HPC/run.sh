@@ -20,7 +20,7 @@ module load GCC/7.3.0-2.30
 module load OpenMPI/3.1.1
 module load Python/3.6.6
 
-source /home/stats/stsqgk/ABC/env/bin/activate
+source ~/env/bin/activate
 
 srun python3 your_code.py
 
