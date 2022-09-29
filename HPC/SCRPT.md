@@ -4,9 +4,8 @@ The SCRTP manages high performance computing (HPC) facilities that are available
 ## MathSys SCRTP Machines (CPUs)
 MathSys have their own machines and list of hostnames for the complexity SCRTP machines are:
 
-| adobo | bulalo |   halabos|  inihaw | jamon  | kinilaw  |
+| bulalo | caldereta | lechon  |  niliga |  okoy | torta  |
 |-----|----|---|---|---|---|
-|   niliga    |  okoy  | pinakbet  | sinuglaw  | rilyeno  |  galunggong |
 
 You can access these machines using the following command in the terminal:
 
@@ -17,9 +16,8 @@ Once you have your scrtp account, try accessing one of the complexity machines. 
 ## MathSys SCRTP Machines (GPUs)
 MathSys also have machines with GPUs since Summer 2019. The hostnames are:
 
-keiko  
-kumeta
-kalocsa
+| keiko | kumeta | kalocsa  |
+|-----|----|---|
 
 You can access these machines usng the following command in the terminal:
 
