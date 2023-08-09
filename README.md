@@ -5,9 +5,8 @@ Mathematics for Real-World Systems Centre for Doctoral Training, University of W
 
 # Tutors
 - Francesca Basini - https://warwick.ac.uk/fac/sci/mathsys/people/students/2019intake/basini/
-- Jimmy McKendrick - https://warwick.ac.uk/fac/sci/mathsys/people/students/2019intake/mckendrick/
 - Olayinka Ajayi - https://warwick.ac.uk/fac/sci/mathsys/people/students/2020intake/olayinka/
-- Jack O'Connor - https://warwick.ac.uk/fac/sci/mathsys/people/students/2020intake/oconnor
+- Jack Buckingham - https://warwick.ac.uk/fac/sci/mathsys/people/students/2021intake/buckingham/
 
 # Questions
 For any questions pertaining to the contents of this module, please create an issue labelled with question.
