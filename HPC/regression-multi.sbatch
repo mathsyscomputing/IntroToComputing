@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=7
 #SBATCH --cpus-per-task=1
 #SBATCH --mem-per-cpu=3700
-#SBATCH --time=24:00:00
+#SBATCH --time=01:00:00
 
 # Tell numpy, scipy etc. how many cpus are available
 MY_NUM_THREADS=$SLURM_CPUS_PER_TASK
