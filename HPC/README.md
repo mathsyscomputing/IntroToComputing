@@ -9,6 +9,12 @@ To gain access to the HPC facilities, click [here](https://warwick.ac.uk/researc
 Avon is running a cluster mamagement system called SLURM. The recommended way of working on Avon is to submit batch jobs into the queue to be run when resources become available, although working interactively is possible if required.
 Once you have set up your account, information on connecting to the cluster and running jobs can be found here: https://docs.scrtp.warwick.ac.uk/hpc.html
 
+You can log in via ssh:
+```bash
+ssh matgxj@avon.scrtp.warwick.ac.uk
+```
+The first time you log in, you will need to set up [two-factor authentication](https://docs.scrtp.warwick.ac.uk/hpc-pages/connecting-pages/twofactor.html).
+
 > [!WARNING]  
 > Remember to **never** run expensive workloads on the login node! You will impact on everyone trying to submit jobs and will get suspended from HPC!
 
