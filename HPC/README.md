@@ -52,21 +52,21 @@ This should be your scrtp username (e.g. `matxxx`) and you will be asked for you
 ## MathSys SCRTP Machines (CPUs)
 MathSys have their own machines and list of hostnames for the complexity SCRTP machines are:
 
-| bulalo | caldereta | lechon  |  niliga |  okoy | torta  |
-|-----|----|---|---|---|---|
+| bulalo | caldereta | jamon | lechon | niliga | okoy | torta |
+|--------|-----------|-------|--------|--------|------|-------|
 
 You can access these machines using the following command in the terminal:
 ```bash
 ssh username@hostname.complexity.warwick.ac.uk
 ```
 
-Once you have your scrtp account, try accessing one of the complexity machines. You could also apply the techniques learnt earlier in the week regarding bash and ubuntu. Note that some machines are no longer maintained so if you do not connect withing 20 seconds, try another hostname.
+Once you have your scrtp account, try accessing one of the complexity machines. You could also apply the techniques learnt earlier in the week regarding bash and ubuntu. Note that the machines often need restarting after the SCRTP maintenance window on Wednesdays. Also, they are sometimes accidentally switched off by the people who share their office. If you cannot log in, you may need to switch them back on.
 
 ## MathSys SCRTP Machines (GPUs)
 MathSys also have machines with GPUs since Summer 2019. The hostnames are:
 
-| keiko | kumeta | kalocsa  |
-|-----|----|---|
+| keiko | kumeta | kalocsa | kaluga |
+|-------|--------|---------|--------|
 
 You can access these machines usng the following command in the terminal:
 ```bash
