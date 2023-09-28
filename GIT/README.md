@@ -38,3 +38,5 @@ git config --global alias.lg3 "log --graph --abbrev-commit --decorate --format=f
 ## Diffing notebooks
 Tracking notebooks in git can be painful because `git diff` will usually be full of characters representing changes to plots generated as cell outputs. Thankfully, a tool called _nbdime_ exists to show you what you want to see. To find out more, see: https://nbdime.readthedocs.io/
 
+Alternatively, if you'd prefer not to commit notebook outputs to git at all, then _nbstripout_ is a good utility which will ignore them when you do `git add` & `git commit`: https://github.com/kynan/nbstripout
+
