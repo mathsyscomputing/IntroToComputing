@@ -28,6 +28,9 @@ squeue --me
 
 # Look at where you are in the priority queue (before your job is started)
 sprio --long --sort=r,-y | less -N
+
+# Cancel a job when you realise you made a mistake
+scancel <job-number>
 ```
 
 ## Taskfarm
