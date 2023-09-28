@@ -35,3 +35,6 @@ git config --global alias.lg2 "log --graph --abbrev-commit --decorate --format=f
 git config --global alias.lg3 "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n          %C(white)%s%C(reset)%n          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'"
 ```
 
+## Diffing notebooks
+Tracking notebooks in git can be painful because `git diff` will usually be full of characters representing changes to plots generated as cell outputs. Thankfully, a tool called _nbdime_ exists to show you what you want to see. To find out more, see: https://nbdime.readthedocs.io/
+
