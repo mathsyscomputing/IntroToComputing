@@ -1,6 +1,9 @@
 # Scientific Computing Research Technology Platform (SCRTP)
 The SCRTP manages various computing facilities that are available for you to use.  First you will need an SCRTP account (which differs from, but requires your normal Warwick ITS account).  Obtain your SCRTP account [here](https://warwick.ac.uk/research/rtp/sc/desktop/gettingstarted).
 
+> [!NOTE]
+> If you're already familiar, then skip to the [useful links](#useful-links) at the bottom!
+
 ## High Performance Clusters (HPC)
 Warwick currently has one active, internal HPC cluster, called Avon. It has a total of 9528 CPU cores and 16 multi-GPU nodes, connected to a high-performance storage solution. It is suitable both for parallel and distributed CPU based workloads, as well as gpu workloads. You can read more on the [SCRTP docs page](https://docs.scrtp.warwick.ac.uk/hpc-pages/hpc-hardware.html).
 
@@ -73,3 +76,18 @@ You can access these machines usng the following command in the terminal:
 ssh username@hostname.scrtp.warwick.ac.uk
 ```
 
+
+## Useful links
+### SCRTP
+SCRTP main page: https://warwick.ac.uk/research/rtp/sc/  
+SCRTP docs (under development): https://docs.scrtp.warwick.ac.uk/index.html  
+HPC wiki (old): https://wiki.csc.warwick.ac.uk/wiki/HPC/ClusterUserGuide  
+HPC FAQ: https://warwick.ac.uk/research/rtp/sc/user_support/faq/hpc/  
+SCRTP drop in sessions: https://warwick.ac.uk/research/rtp/sc/user_support/research-computing-drop-in/  
+
+### SLURM
+https://slurm.schedmd.com/documentation.html  
+https://stanford-rc.github.io/docs-earth/docs/slurm-basics  
+
+### Bugzilla
+https://bugzilla.csc.warwick.ac.uk/bugzilla/  
