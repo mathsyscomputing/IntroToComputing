@@ -7,7 +7,9 @@ Warwick currently has one active, internal HPC cluster, called Avon. It has a to
 To gain access to the HPC facilities, click [here](https://warwick.ac.uk/research/rtp/sc/hpc/register/). Note that you will need an SCRTP account to apply for HPC access.
 
 Avon is running a cluster mamagement system called SLURM. The recommended way of working on Avon is to submit batch jobs into the queue to be run when resources become available, although working interactively is possible if required.
-Once you have set up your account, information on connecting to the cluster and running jobs can be found here: https://docs.scrtp.warwick.ac.uk/hpc.html
+
+> [!NOTE]  
+> Once you have set up your account, information on connecting to the cluster and running jobs can be found here: https://docs.scrtp.warwick.ac.uk/hpc.html
 
 You can log in via ssh:
 ```bash
