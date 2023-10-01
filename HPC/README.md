@@ -16,7 +16,7 @@ Avon is running a cluster mamagement system called SLURM. The recommended way of
 
 You can log in via ssh:
 ```bash
-ssh matgxj@avon.scrtp.warwick.ac.uk
+ssh username@avon.scrtp.warwick.ac.uk
 ```
 The first time you log in, you will need to set up [two-factor authentication](https://docs.scrtp.warwick.ac.uk/hpc-pages/connecting-pages/twofactor.html).
 
@@ -88,6 +88,7 @@ SCRTP drop in sessions: https://warwick.ac.uk/research/rtp/sc/user_support/resea
 ### SLURM
 https://slurm.schedmd.com/documentation.html  
 https://stanford-rc.github.io/docs-earth/docs/slurm-basics  
+https://support.nesi.org.nz/hc/en-gb/articles/360000684396  
 
 ### Bugzilla
 https://bugzilla.csc.warwick.ac.uk/bugzilla/  

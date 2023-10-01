@@ -1,6 +1,17 @@
 # Avon tutorial
 In this tutorial, you will schedule a simple regression job on Avon.
 
+## Log in
+You can log in via ssh:
+```bash
+ssh username@avon.scrtp.warwick.ac.uk
+```
+The first time you log in, you will need to set up [two-factor authentication](https://docs.scrtp.warwick.ac.uk/hpc-pages/connecting-pages/twofactor.html).
+
+> [!WARNING]  
+> Remember to **never** run expensive workloads on the login node! You will impact on everyone trying to submit jobs and will get suspended from HPC!
+
+
 ## Set-up
 Clone the IntroToComputing repo on Avon:
 ```bash
@@ -73,7 +84,7 @@ When it has finished, you will have two new log files:
 Have a look at them now using either the `cat` or `less` commands.
 
 You will also now have a separate file for each experiment in the `results/` directory.
-We will download them using a program called `rsync`. Open a new terminal, and navigate
+We will download them using a program called `rsync`. **Open a new terminal**, and navigate
 to somewhere where you want to save the results (using `cd`). Then run:
 ```bash
 rsync -avz \
